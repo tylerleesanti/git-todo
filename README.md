@@ -1,5 +1,5 @@
 # My Get Todo
 
 - Get started
-- Do the thing
+- Work on the thing
 - Finish
